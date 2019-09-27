@@ -27,4 +27,8 @@ public class EnhancedPlayer {
     public int getHealth() {
         return hitPoints;
     }
+
+    public void addHealth(){
+
+    }
 }
