@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9defb93-1d3b-4407-9a39-2e0b5a18bcd6" name="Default Changelist" comment="" />
+    <list default="true" id="a9defb93-1d3b-4407-9a39-2e0b5a18bcd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/src/com/petermccreadie/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/src/com/petermccreadie/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/src/com/petermccreadie/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance/src/com/petermccreadie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Cylinder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Cylinder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/Inheritance_Challenge_Vehicle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/src/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Control Flow Statements/Inheritance_Challenge_Vehicle/src/Vehicle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +43,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1QVidJl7993vhDb1YHP9neJxO7S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -64,5 +93,16 @@
       <updated>1567862249710</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
