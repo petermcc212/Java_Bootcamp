@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class MobilePhone {
 
     private static Scanner scanner = new Scanner(System.in);
-
+    
 
     // Phone book array list creation
     private static ArrayList<Contact> contactList = new ArrayList<Contact>();
