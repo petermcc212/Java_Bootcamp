@@ -17,16 +17,24 @@ public class Main {
 //        loadObject(peter);
 //        System.out.println(peter);
 
-        Monster theBigYin = new Monster("Hairy Sally", 100, "Hairy legs");
-        System.out.println(theBigYin.toString());
-        saveObject(theBigYin);
+//        Monster theBigYin = new Monster("Hairy Sally", 100, "Hairy legs");
+//        System.out.println(theBigYin.toString());
+//        saveObject(theBigYin);
+//
+//        theBigYin.setHeight(99);
+//        System.out.println(theBigYin);
+//        theBigYin.setMonsterName("Scary Mary");
+//
+//        saveObject(theBigYin);
+//        loadObject(theBigYin);
+//        System.out.println(theBigYin);
 
-        theBigYin.setHeight(99);
-        System.out.println(theBigYin);
-        theBigYin.setMonsterName("Scary Mary");
-        saveObject(theBigYin);
-        loadObject(theBigYin);
-        System.out.println(theBigYin);
+        ISavable theEvenBiggerYin = new Monster("Tina turner", 100, "Bangin voice");
+
+        // You have to cast Monster to get to the methods through the interface because you've instantiated
+        // ISavable object NOT a Monster object
+        System.out.println(((Monster) theEvenBiggerYin).getMonsterName());
+        System.out.println(((Monster)theEvenBiggerYin).getMostScaryAttribute());
 
 
 
