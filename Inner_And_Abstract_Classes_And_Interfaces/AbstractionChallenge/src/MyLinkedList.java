@@ -27,21 +27,17 @@ public class MyLinkedList implements  NodeList{
                     currentItem = currentItem.next();
                 }else{
                     // there is no next, so insert at end of list
-                    currentItem.setNext(newItem);
-                    newItem.setPrevious(currentItem);
+                    currentItem.setNext(newItem).setPrevious(currentItem);
                     return true;
                 }
             }else if (comparison > 0){
                 // newItem is less, insert before
                 if(currentItem.previous() != null){
-                    currentItem.previous().setNext(newItem);
-                    newItem.setPrevious(currentItem).previous();
-                    newItem.setNext(currentItem);
-                    currentItem.setPrevious(newItem);
+                    currentItem.previous().setNext(newItem).setPrevious(currentItem.previous());
+                    newItem.setNext(currentItem).setPrevious(newItem);
                 }else{
                     // the node with a previous is the root
-                    newItem.setNext(this.root);
-                    this.root.setPrevious(newItem);
+                    newItem.setNext(this.root).setPrevious(newItem);
                     this.root = newItem;
 
                 }
@@ -59,11 +55,55 @@ public class MyLinkedList implements  NodeList{
 
     @Override
     public boolean removeItem(ListItem item) {
+        if(item != null){
+            System.out.println("Deleting item " + item.getValue());
+        }
+        ListItem currentItem = this.root;
+        while(currentItem != null){
+            int comparison = currentItem.compareTo(item);
+            if(comparison == 0 ){
+                // found the item to delete
+                if(currentItem == this.root){
+                    // if it's the first item, delete it and make the next entry the new root
+                    this.root = currentItem.next();
+                }else{
+                    currentItem.previous().setNext(currentItem.next());
+                    if(currentItem.next() != null){
+                        currentItem.next().setPrevious(currentItem.previous());
+                    }
+                }
+                return true;
+            }else if (comparison < 0){
+                currentItem = currentItem.next();
+            }else{
+                // comparison item > 0
+                // we are at an item greater than the one to be deleted
+                // so the item is not in the list
+                return false;
+            }
+        }
+        // we have reached the end of our list
+        // without finding the item to delete
         return false;
     }
 
     @Override
     public void traverse(ListItem root) {
+//        if(root == null){
+//            System.out.println("The list is empty");
+//        }else{
+//            while (root != null){
+//                System.out.println(root.getValue());
+//                root = root.next();
+//            }
+//        }
+
+        // if you want to recusively move through a linked list you could do this
+        // but it's not good practice because of the depth of the recursion
+        if (root != null){
+            System.out.println(root.getValue());
+            traverse(root.next());
+        }
 
     }
 }
