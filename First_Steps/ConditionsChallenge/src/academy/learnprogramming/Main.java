@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	double varOne = 20.00d;
-	double varTwo = 80.00d;
+	double varTwo = 83.00d;
 	double varTotal = ((varOne + varTwo)* 100.00d);
     System.out.println("VarTotal = " + varTotal);
 	double varRemainder = (varTotal% 40.00d);

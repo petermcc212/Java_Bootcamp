@@ -10,6 +10,7 @@ public class MobilePhone {
     private static ArrayList<Contact> contactList = new ArrayList<Contact>();
 
 
+
     // Welcome menu which will be looped to the user until the user quits the applicaiton
     public static void welcomeMenu(){
         System.out.println("Welcome to the Nokia 3210 ");

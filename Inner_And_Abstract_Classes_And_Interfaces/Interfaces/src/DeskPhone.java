@@ -1,40 +1,42 @@
 public class DeskPhone implements ITelephone {
 
-    private String myNumber;
+
+    private int myNumber;
     private boolean isRinging;
 
-
-    public DeskPhone(String myNumber){
+    public DeskPhone(int myNumber) {
         this.myNumber = myNumber;
     }
 
     @Override
     public void powerOn() {
-        System.out.println("No action taken. Desk phone does not have a power button");
+        System.out.println("No action taken, desk phone does not have a power button");
 
     }
 
     @Override
     public void dial(int phoneNumber) {
-        System.out.println("Now ringing " + phoneNumber + " on deskphone");
+        System.out.println("Now ringing " + phoneNumber + " on desktphone");
 
     }
 
     @Override
     public void answer() {
-
         if(isRinging){
-            System.out.println("Answering the desk phone");
+            System.out.println("Answering the deskphone");
             isRinging = false;
         }
 
     }
 
     @Override
-    public boolean callPhone(String phoneNumber) {
+    public boolean callPhone(int phoneNumber) {
         if(phoneNumber == myNumber){
             isRinging = true;
-        } isRinging = false;
+            System.out.println("Ring ring");
+        }else{
+            isRinging = false;
+        }
         return isRinging;
     }
 

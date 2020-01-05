@@ -13,7 +13,6 @@ public class Main {
         // float
         // short
         // long
-
         String myString = "This is a string";
         System.out.println("myString is equal to " + myString);
         myString = myString + ", and this is more";

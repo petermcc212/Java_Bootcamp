@@ -1,8 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7bd124d-3017-42a6-a96d-c61bc8a45bf3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e7bd124d-3017-42a6-a96d-c61bc8a45bf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../First_Steps/.idea/First_Steps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Generics/GenericsChallenge/GenericsChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Generics/GenericsChallenge/src/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Generics/GenericsChallenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Generics/GenericsChallenge/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/AbstractClassChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/src/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClassChallenge/src/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/AbstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/AbstractClasses/src/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/CheckAWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/CheckAWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/CheckAWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/CheckAWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/CheckAWord/CheckAWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/CheckAWord/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/InnerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/src/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/src/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InnerClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InterfaceChallenge2/InterfaceChallenge2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InterfaceChallenge2/src/ISavable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InterfaceChallenge2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InterfaceChallenge2/src/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/InterfaceChallenge2/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/src/com/timbuchalka/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces.LinkedListChallenge/src/com/timbuchalka/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/src/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/src/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/src/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/Interfaces/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/out/production/LinkedListChallenge/com/timbuchalka/Album$SongList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/out/production/LinkedListChallenge/com/timbuchalka/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/out/production/LinkedListChallenge/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/out/production/LinkedListChallenge/com/timbuchalka/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/src/com/timbuchalka/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/LinkedListChallenge/src/com/timbuchalka/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/src/SortTheGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inner_And_Abstract_Classes_And_Interfaces_2/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays, Java inbuild Lists, Autoboxing and Unboxing/Arrays1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays, Java inbuild Lists, Autoboxing and Unboxing/ReferencesVsValueTypes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/Arrays1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/out/production/Arrays1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/ArraysChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/out/production/ArraysChallenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/src/ArraysTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysChallenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/MinimumElementChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/out/production/MinimumElementChallenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/MinimumElementChallenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/ReferencesVsValueTypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/out/production/ReferencesVsValueTypes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReferencesVsValueTypes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/ReverseArrayChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/out/production/ReverseArrayChallenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/ByteShortIntLong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/ByteShortIntLong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/CharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/CharAndBoolean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/CharAndBoolean/out/production/CharAndBoolean/academy/learnprogramming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/CharAndBoolean/out/production/CharAndBoolean/academy/learnprogramming/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/out/production/ConditionsChallenge/academy/learnprogramming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/out/production/ConditionsChallenge/academy/learnprogramming/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/ConditionsChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/FloatAndDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/FloatAndDouble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../First_Steps/Strings/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../First_Steps/Strings/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/Challenge_Take_Two.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/out/production/Challenge_Take_Two/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/out/production/Challenge_Take_Two/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/out/production/Challenge_Take_Two/PingPongPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/out/production/Challenge_Take_Two/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/out/production/Challenge_Take_Two/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/src/League.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/src/PingPongPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Challenge_Take_Two/src/Team.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,25 +196,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1OyM8yIHxJe9vqrjn0R626DqaSk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -51,6 +226,18 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,5 +262,55 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>

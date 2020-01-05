@@ -24,7 +24,7 @@ public class Main {
         int[] reversedArray = new int[array.length];
 
         for(int i = 0; i< array.length; i++){
-            reversedArray[array.length-i -1] = array[i];
+            reversedArray[array.length-1 -i] = array[i];
         }
 
         return reversedArray;

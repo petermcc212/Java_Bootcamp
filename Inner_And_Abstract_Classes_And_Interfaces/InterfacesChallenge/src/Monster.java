@@ -3,58 +3,32 @@ import java.util.List;
 
 public class Monster implements ISavable{
 
-    String monsterName;
-    int height;
-    String mostScaryAttribute;
+    private String name;
+    private int hitPoints;
+    private int strength;
 
-
-    public Monster( String monsterName, int height, String mostScaryAttribute){
-        this.monsterName = monsterName;
-        this.height = height;
-        this.mostScaryAttribute = mostScaryAttribute;
-    }
-
-
-    public String getMonsterName() {
-        return monsterName;
-    }
-
-    public void setMonsterName(String monsterName) {
-        this.monsterName = monsterName;
-    }
-
-    public int getHeight() {
-        return height;
-    }
-
-    public void setHeight(int height) {
-        this.height = height;
-    }
-
-    public String getMostScaryAttribute() {
-        return mostScaryAttribute;
-    }
-
-    public void setMostScaryAttribute(String mostScaryAttribute) {
-        this.mostScaryAttribute = mostScaryAttribute;
+    public Monster(String name, int hitPoints, int strength) {
+        this.name = name;
+        this.hitPoints = hitPoints;
+        this.strength = strength;
     }
 
     @Override
     public List<String> write() {
-        List toWrite = new ArrayList<String>();
-        toWrite.add(0,"Monster name: " + monsterName);
-        toWrite.add(1, "Height: " + height);
-        toWrite.add(2, "Most scary attribute: " + mostScaryAttribute);
-        return toWrite;
+        ArrayList<String> values = new ArrayList<String>();
+        values.add(0, this.name);
+        values.add(1, "" + this.hitPoints);
+        values.add(2, "" + this.strength);
+
+        return values;
     }
 
     @Override
     public void read(List<String> savedValues) {
-        if(savedValues != null || savedValues.size()>0){
-            this.setMonsterName(savedValues.get(0));
-            this.setHeight(Integer.parseInt(savedValues.get(1)));
-            this.setMostScaryAttribute(savedValues.get(2));
-
+        if(savedValues != null && savedValues.size()>0){
+            this.name = savedValues.get(0);
+            this.hitPoints = Integer.parseInt(savedValues.get(1));
+            this.strength = Integer.parseInt(savedValues.get(2));
         }
 
     }
@@ -62,9 +36,21 @@ public class Monster implements ISavable{
     @Override
     public String toString() {
         return "Monster{" +
-                "monsterName='" + monsterName + '\'' +
-                ", height=" + height +
-                ", mostScaryAttribute='" + mostScaryAttribute + '\'' +
+                "name='" + name + '\'' +
+                ", hitPoints=" + hitPoints +
+                ", strength=" + strength +
                 '}';
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getHitPoints() {
+        return hitPoints;
+    }
+
+    public int getStrength() {
+        return strength;
     }
 }

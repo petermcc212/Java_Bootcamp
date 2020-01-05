@@ -5,50 +5,34 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Player peter = new Player("Peter", 10, 15);
+        System.out.println(peter.toString());
+        saveObject(peter);
 
-//        Player peter = new Player("Peter", 10, 15);
-//        System.out.println(peter.toString());
-//        saveObject(peter);
-//
-//        peter.setHighScore(20);
-//        System.out.println(peter);
-//        peter.setWeapon("Stormbringer");
-//        saveObject(peter);
+        peter.setHitPoints(8);
+        System.out.println(peter);
+        peter.setWeapon("Stormbringer");
+        saveObject(peter);
 //        loadObject(peter);
-//        System.out.println(peter);
-
-//        Monster theBigYin = new Monster("Hairy Sally", 100, "Hairy legs");
-//        System.out.println(theBigYin.toString());
-//        saveObject(theBigYin);
-//
-//        theBigYin.setHeight(99);
-//        System.out.println(theBigYin);
-//        theBigYin.setMonsterName("Scary Mary");
-//
-//        saveObject(theBigYin);
-//        loadObject(theBigYin);
-//        System.out.println(theBigYin);
-
-        ISavable theEvenBiggerYin = new Monster("Tina turner", 100, "Bangin voice");
-
-        // You have to cast Monster to get to the methods through the interface because you've instantiated
-        // ISavable object NOT a Monster object
-        System.out.println(((Monster) theEvenBiggerYin).getMonsterName());
-        System.out.println(((Monster)theEvenBiggerYin).getMostScaryAttribute());
+        System.out.println(peter);
 
 
+        ISavable werewolf = new Monster("werefolf", 20, 40);
+        // to access methods in Monster, we need to cast the interface werewolf as a Monster
+        System.out.println("Strength = " + ((Monster) werewolf).getStrength());
+        System.out.println(werewolf);
+        saveObject(werewolf);
 
-
-
-
-
-
-
-
-
+//        NOTE:
+//        If you want to create a variable which may have multiple types, declare the interface as the type
+//        If you want to access methods from an object, declare the variable as the object rather than the interface.
+//        If you want to get around this, you'll need to cast as the object.
 
     }
 
+
+
+    // simulates getting values from a file
 
     public static ArrayList<String> readValues() {
         ArrayList<String> values = new ArrayList<String>();
@@ -80,9 +64,8 @@ public class Main {
     }
 
 
-
     public static void saveObject(ISavable objectToSave){
-        for(int i = 0; i< objectToSave.write().size(); i++){
+        for(int i = 0; i<objectToSave.write().size(); i++){
             System.out.println("Saving " + objectToSave.write().get(i) + " to storage device.");
         }
     }
@@ -91,5 +74,7 @@ public class Main {
         ArrayList<String> values = readValues();
         objectToLoad.read(values);
     }
+
+
 
 }
