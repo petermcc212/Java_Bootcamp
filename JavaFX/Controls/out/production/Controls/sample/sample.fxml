@@ -115,6 +115,7 @@
                 <Label text="Label 3 in titled pane"/>
             </TitledPane>
         </panes>
+
     </Accordion>
 
 
