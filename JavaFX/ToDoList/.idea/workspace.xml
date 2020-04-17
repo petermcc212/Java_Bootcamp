@@ -20,90 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/libraries/javafx_swt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/Controller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/out/production/Controller/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/out/production/Controller/sample/Controller$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/out/production/Controller/sample/Controller$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/out/production/Controller/sample/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/out/production/Controller/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/out/production/Controller/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controller/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controls/jlfgr.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controls/out/production/Controls/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controls/out/production/Controls/sample/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controls/out/production/Controls/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Controls/out/production/Controls/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/libraries/javafx_swt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/PracticeWithFx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/out/production/PracticeWithFx/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/out/production/PracticeWithFx/sample/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/out/production/PracticeWithFx/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/out/production/PracticeWithFx/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeWithFx/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoListItems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/mainwindow.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/todoItemDialogue.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/DialogueController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/datamodel/TodoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/datamodel/TodoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/mainwindow.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/todoItemDialogue.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/Multithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/out/production/Multithreading/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/out/production/Multithreading/com/company/Tuna.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Threading/Multithreading/src/com/company/Tuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Controls/jlfgr.jar!/toolbarButtonGraphics/general/hayley.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/.name" beforeDir="false" />
@@ -151,12 +68,24 @@
       <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/ReverseArrayChallenge.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/out/production/ReverseArrayChallenge/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Arrays/ReverseArrayChallenge/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controls/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controls/Controls.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Controls/Controls.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controls/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Controls/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controls/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Controls/src/sample/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controls/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Controls/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controls/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Controls/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListItems.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListItems.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/DialogueController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/DialogueController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/mainwindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/mainwindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/todoItemDialogue.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/com/petermccreadie/todolist/todoItemDialogue.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/petermccreadie/todolist/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/petermccreadie/todolist/DialogueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/DialogueController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/petermccreadie/todolist/datamodel/TodoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/datamodel/TodoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/petermccreadie/todolist/mainwindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/mainwindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/petermccreadie/todolist/todoItemDialogue.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/todoItemDialogue.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,12 +176,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Controls/jlfgr.jar!/toolbarButtonGraphics/general" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Controls/jlfgr.jar!/toolbarButtonGraphics/general" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -372,6 +307,10 @@
       <workItem from="1586947611248" duration="207000" />
       <workItem from="1586947831090" duration="8049000" />
       <workItem from="1587035940871" duration="11522000" />
+      <workItem from="1587049836352" duration="10394000" />
+      <workItem from="1587106513579" duration="6000" />
+      <workItem from="1587106523508" duration="1557000" />
+      <workItem from="1587108486523" duration="6066000" />
     </task>
     <servers />
   </component>
@@ -405,80 +344,78 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1384" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1586891652731" />
-    <state x="2130" y="388" key="#com.intellij.ide.util.MemberChooser" timestamp="1587049345959">
+    <state x="2130" y="388" key="#com.intellij.ide.util.MemberChooser" timestamp="1587049997920">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="2130" y="388" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587049345959" />
+    <state x="2130" y="388" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587049997920" />
     <state x="1657" y="528" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586899066216">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1657" y="528" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1586899066216" />
-    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1587049820177">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1587116174073">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="407" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1586980334926" />
     <state width="1238" height="502" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820177" />
-    <state width="1238" height="407" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586985742715" />
-    <state width="1238" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587049441056" />
-    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1587049820171">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840354" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174073" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1587116174072">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="407" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1586980334925" />
     <state width="1238" height="502" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820171" />
-    <state width="1238" height="407" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586985742714" />
-    <state width="1238" height="407" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587049441055" />
-    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1587049820170">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840353" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174072" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1587116174072">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="407" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1586980334925" />
     <state width="1238" height="502" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820170" />
-    <state width="1238" height="407" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586985742714" />
-    <state width="1238" height="407" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587049441054" />
-    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1587049820171">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840353" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174072" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1587116174073">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="407" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1586980334926" />
     <state width="1238" height="502" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820171" />
-    <state width="1238" height="407" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586985742714" />
-    <state width="1238" height="407" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587049441055" />
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1587049820179">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840354" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174073" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1587116174074">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820179" />
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587044459980" />
-    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1587049820178">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840355" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174074" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1587116174073">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="502" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820178" />
-    <state width="1238" height="502" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587044459979" />
-    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1587049820177">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840355" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174073" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1587116174073">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="502" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820177" />
-    <state width="1238" height="502" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587044459979" />
-    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1587049820178">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840355" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174073" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1587116174074">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="502" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587049820178" />
-    <state width="1238" height="502" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587044459979" />
-    <state x="1429" y="370" key="SettingsEditor" timestamp="1587040948963">
+    <state width="1238" height="502" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840355" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587116174074" />
+    <state x="1429" y="370" key="SettingsEditor" timestamp="1587107792905">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1429" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587040948963" />
-    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1587045391556">
+    <state x="1429" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587107792905" />
+    <state x="121" y="23" width="1238" height="1398" key="dock-window-1" timestamp="1587106850420">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1587045391556" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/petermccreadie/todolist/Main.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="0" y="173" width="1238" height="877" key="dock-window-1/0.23.1680.1027@0.23.1680.1027" timestamp="1587075840830" />
+    <state x="121" y="23" width="1238" height="1398" key="dock-window-1/0.23.2560.1417@0.23.2560.1417" timestamp="1587106850420" />
+    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1587107589174">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1587107589174" />
   </component>
 </project>
