@@ -1,10 +1,6 @@
-module ToDoList {
+module ToDoAgain {
 
     requires javafx.fxml;
     requires javafx.controls;
-    requires gfx;
     opens com.petermccreadie.todolist;
-
-
-
 }
