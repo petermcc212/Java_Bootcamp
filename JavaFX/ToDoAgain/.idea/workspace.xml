@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoAgain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoListItems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/DialogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/datamodel/TodoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/datamodel/TodoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/mainwindow.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/petermccreadie/todolist/todoitemDialog.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/ToDoList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/ToDoList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$7$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/DialogueController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/DialogueController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/com/petermccreadie/todolist/datamodel/TodoItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/out/production/ToDoList/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToDoList/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDoList/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListItems.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListItems.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,6 +195,7 @@
       <workItem from="1596565197187" duration="3129000" />
       <workItem from="1596644890228" duration="7744000" />
       <workItem from="1596734393388" duration="10577000" />
+      <workItem from="1596798645702" duration="615000" />
     </task>
     <servers />
   </component>
