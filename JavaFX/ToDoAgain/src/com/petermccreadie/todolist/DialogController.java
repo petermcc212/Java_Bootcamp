@@ -6,6 +6,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
+import javafx.scene.layout.GridPane;
 
 import java.time.LocalDate;
 
@@ -20,6 +21,9 @@ public class DialogController {
     @FXML
     private DatePicker deadlinePicker;
 
+    @FXML
+    private GridPane mainPanel;
+
     public TodoItem processResults() {
         String shortDescription = shortDescriptionField.getText().trim();
         String details = detailsArea.getText().trim();
@@ -30,18 +34,9 @@ public class DialogController {
         return newItem;
     }
 
-    public TodoItem editItem(TodoItem todoItem){
+    public void editItem(TodoItem item){
 
-        // set current toTo item in relevant fields
-        shortDescriptionField.setText(todoItem.getShortDescription());
-        detailsArea.setText(todoItem.getDetails());
-        deadlinePicker.setValue(todoItem.getDeadline());
 
-        String shortDescription = shortDescriptionField.getText().trim();
-        String details = detailsArea.getText().trim();
-        LocalDate deadlineValue = deadlinePicker.getValue();
-
-        return todoItem;
 
     }
 

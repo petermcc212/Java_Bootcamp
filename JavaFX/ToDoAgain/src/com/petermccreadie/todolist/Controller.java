@@ -145,7 +145,15 @@ public class Controller {
         // Right click menu
          listContextMenu = new ContextMenu();
         MenuItem deleteMenuItem = new MenuItem("Delete");
+        MenuItem editMenuItem = new MenuItem("Edit");
 
+        editMenuItem.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent actionEvent) {
+                handleEditMenu();
+
+            }
+        });
 
         deleteMenuItem.setOnAction(new EventHandler<ActionEvent>() {
             @Override
@@ -156,8 +164,45 @@ public class Controller {
         });
 
         listContextMenu.getItems().addAll(deleteMenuItem);
+        listContextMenu.getItems().addAll(editMenuItem);
 
         return listContextMenu;
+    }
+
+
+    public void handleEditMenu(){
+        TodoItem item = todoListView.getSelectionModel().getSelectedItem();
+        if(item == null){
+            Alert alert = new Alert(Alert.AlertType.INFORMATION);
+            alert.setTitle("No item selected");
+            alert.setHeaderText(null);
+            alert.setContentText("Please select the item you wish to edit");
+            alert.showAndWait();
+            return;
+        }
+        Dialog<ButtonType> dialog = new Dialog<ButtonType>();
+        dialog.initOwner(mainBorderPane.getScene().getWindow());
+        dialog.setTitle("Edit item");
+        FXMLLoader fxmlLoader = new FXMLLoader();
+        fxmlLoader.setLocation(getClass().getResource("todoitemDialog.fxml"));
+        try{
+            dialog.getDialogPane().setContent(fxmlLoader.load());
+        }catch(IOException e){
+            System.out.printf("Couldn't load the todo item");
+            e.printStackTrace();
+            return;
+        }
+
+        dialog.getDialogPane().getButtonTypes().add(ButtonType.OK);
+        dialog.getDialogPane().getButtonTypes().add(ButtonType.CANCEL);
+
+        DialogController dialogController = new DialogController();
+        dialogController.editItem(item);
+
+        Optional<ButtonType> result = dialog.showAndWait();
+        if(result.isPresent() && result.get() == ButtonType.OK){
+
+        }
     }
 
 
